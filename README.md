@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+1 - irb
+2 - require 'what_should_i_eat'
+3 - WhatShouldIEat.fresh
 
 ## Development
 
